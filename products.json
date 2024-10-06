@@ -1,0 +1,42 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Classic Burger",
+        "price": 5.99,
+        "image": "https://png.pngtree.com/png-vector/20230922/ourmid/pngtree-burger-png-images-png-image_10146426.png"
+        
+      },
+      {
+        "id": 2,
+        "name": "CHEESE BURGER",
+        "price": 6.99,
+        "image": "https://png.pngtree.com/png-clipart/20230326/ourmid/pngtree-isolated-burger-on-transparent-background-png-image_6669724.png"
+      },
+      {
+        "id": 3,
+        "name": "BBQ Burger",
+        "price": 7.99,
+        "image": "https://png.pngtree.com/png-vector/20230922/ourmid/pngtree-burger-png-images-png-image_10146426.png"
+      },
+      {
+        "id": 4,
+        "name": "Veggie Burger",
+        "price": 4.99,
+        "image": "https://png.pngtree.com/png-vector/20230922/ourmid/pngtree-burger-png-images-png-image_10146426.png"
+      },
+      {
+        "id": 4,
+        "name": "Veggie Burger",
+        "price": 4.99,
+        "image": "https://png.pngtree.com/png-vector/20230922/ourmid/pngtree-burger-png-images-png-image_10146426.png"
+      },
+      {
+        "id": 4,
+        "name": "CHICKEN FRIES",
+        "price": 79.99,
+        "image": "https://buffaloburger.com/_next/image?url=https%3A%2F%2Fbuffalonlineorderingprod.s3.eu-west-1.amazonaws.com%2Fmenu_items%2Fb666406ac37bf44f8b31849ec0ee48ed.png&w=256&q=75"
+      }
+    ]
+  }
+  
